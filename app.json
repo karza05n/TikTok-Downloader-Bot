@@ -1,8 +1,8 @@
 {
-  "name": "JayBee TikTok Downloader Bot",
-  "description": "A Telegram bot to download TikTok videos without any watermark",
-  "logo" : "https://telegra.ph/file/05bae0725724007c72fa1.jpg",
-  "success_url" : "https://t.me/JayBeeBots",
+  "name": "Kurd TikTok Downloader Bot",
+  "description": "a",
+  "logo" : "",
+  "success_url" : "https://t.me/tiktok_saverku_bot",
   "keywords": [
     "telegram",
     "bot",
